@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships>
+  <EntityRelationship Name="business_unit_cog_testentity" />
+  <EntityRelationship Name="lk_cog_testentity_createdby" />
+  <EntityRelationship Name="lk_cog_testentity_modifiedby" />
+  <EntityRelationship Name="owner_cog_testentity" />
+  <EntityRelationship Name="team_cog_testentity" />
+  <EntityRelationship Name="user_cog_testentity" />
+</EntityRelationships>
