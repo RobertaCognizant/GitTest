@@ -50,6 +50,29 @@
           </columns>
         </tab>
       </tabs>
+      <header id="{02b264a2-3237-4264-bedd-5b67aad6ba49}" columns="111">
+        <rows>
+          <row>
+            <cell id="{95c2adc6-6348-2681-54d6-990a98b031b6}" showlabel="false">
+              <labels>
+                <label description="" languagecode="1033" />
+              </labels>
+            </cell>
+            <cell id="{09530c45-0046-4ee6-e744-2a3c86a745d9}" showlabel="true" locklevel="0">
+              <labels>
+                <label description="Created On" languagecode="1033" />
+              </labels>
+              <control id="header_createdon" classid="{5B773807-9FB2-42db-97C3-7A91EFF8ADFF}" datafieldname="createdon" disabled="false" />
+            </cell>
+            <cell id="{7ec0a996-06d7-d722-e471-c702bd00aa0d}" showlabel="true" locklevel="0">
+              <labels>
+                <label description="Status" languagecode="1033" />
+              </labels>
+              <control id="header_statecode" classid="{3EF39988-22BB-4f0b-BBBE-64B5A3748AEE}" datafieldname="statecode" disabled="false" />
+            </cell>
+          </row>
+        </rows>
+      </header>
       <Navigation>
         <NavBar></NavBar>
         <NavBarAreas>

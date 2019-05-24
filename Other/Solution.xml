@@ -5,8 +5,10 @@
     <LocalizedNames>
       <LocalizedName description="Test" languagecode="1033" />
     </LocalizedNames>
-    <Descriptions />
-    <Version>1.0.1</Version>
+    <Descriptions>
+      <Description description="This is a test entity. &#xA;it's mostly useless." languagecode="1033" />
+    </Descriptions>
+    <Version>1.0.2</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>cognosante</UniqueName>
